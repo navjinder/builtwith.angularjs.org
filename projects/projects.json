@@ -3688,6 +3688,26 @@
         "Responsive",
         "Cloud"
       ]
+    },{
+      "name": "Formspree Generator",
+      "thumb": "formspreegenerator/thumb.png",
+      "desc": "This generator makes it easy to create form code using formspree.io in a drag and drop gui based generator. This is the perfect solution to create forms for static sites.",
+      "url": "http://formspree-generator.navjinder.com/#/create",
+      "info": "http://formspree-generator.navjinder.com",
+      "submitter": "navjinder",
+      "submissionDate": "2015-05-28",
+      "tags": [
+        "SASS",
+        "Bootstrap",
+        "Material",
+        "Responsive",
+        "jQuery",
+        "Forms",
+        "Static",
+        "Formspree.io",
+        "UI Select",
+        "Notifications"
+      ]
     }
 
   ]
